@@ -1,0 +1,3 @@
+-Images
+-Purple text
+-Nav bar
